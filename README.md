@@ -14,5 +14,10 @@ Dive deeper into the project with the comprehensive explanation provided in the 
 
 Instructions:
 1.Download the necessary files to explore the project.
+
 2.Follow the instructions in the PDF for a step-by-step guide on setting up and running the project.
+
 3.Execute the project code in Kali environment using the provided command.
+
+enjoy using network research project by Ariel Sapir
+
